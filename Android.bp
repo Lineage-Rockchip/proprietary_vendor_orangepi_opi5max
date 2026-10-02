@@ -1,0 +1,10 @@
+//
+// Automatically generated file. DO NOT MODIFY
+//
+
+soong_namespace {
+    imports: [
+        "device/rockchip/rk35xx-common",
+        "vendor/rockchip/rk35xx-common",
+    ],
+}
